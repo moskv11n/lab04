@@ -1,0 +1,4 @@
+/Users/mihailerosenko/Desktop/lab04/solver_application/_build/CMakeFiles/solver_lib.dir
+/Users/mihailerosenko/Desktop/lab04/solver_application/_build/CMakeFiles/solver.dir
+/Users/mihailerosenko/Desktop/lab04/solver_application/_build/CMakeFiles/edit_cache.dir
+/Users/mihailerosenko/Desktop/lab04/solver_application/_build/CMakeFiles/rebuild_cache.dir
